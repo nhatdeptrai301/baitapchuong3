@@ -1,3 +1,2 @@
-EMAIL_GUI=nhatdinhtan654@gmail.com
-MAT_KHAU_GUI=ybgiafjovcxcdqsf
-EMAIL_NHAN=nhat_2251220121@dau.edu.vn
+python-dotenv
+schedule
